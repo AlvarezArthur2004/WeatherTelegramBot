@@ -21,4 +21,8 @@ This project utilizes the following technologies:
 - 🔧 Simple and efficient database interactions using Dapper.  
 - 📡 Secure and scalable architecture with ASP.NET Web API.  
 
-This bot is designed to provide a seamless weather update experience for Telegram users while maintaining efficient performance using lightweight and optimized frameworks. 🚀  
+This bot is designed to provide a seamless weather update experience for Telegram users while maintaining efficient performance using lightweight and optimized frameworks. 🚀
+
+Some screen from Telegram Bot
+
+![image](https://github.com/user-attachments/assets/2ed9bcfa-b731-4c19-b9ad-9781d8ca8f70)
